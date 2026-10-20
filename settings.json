@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nightsmg.aternos.me49997",
-    "port": 27586,
+    "ip": "nightsmg.aternos.me",
+    "port": 49997,
     "version": "",
     "try-creative": false
   },
